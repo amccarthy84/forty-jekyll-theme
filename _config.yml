@@ -4,7 +4,7 @@ subtitle: Data Analysis Portfolio
 email: amccarthy84@gmail.com
 description: Portfolio showcasing my developing skills as a Data Analyst
 baseurl: "amccarthy84.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/amccarthy84" # the base hostname & protocol for your site
+url: "https://github.com/amccarthy84/amccarthy84.github.io" # the base hostname & protocol for your site
 author: Ashley McCarthy
 city: Gainesville
 state: Fl
