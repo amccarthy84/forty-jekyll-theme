@@ -1,17 +1,15 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+title: Ashley McCarthy 
+subtitle: Data Analysis Portfolio
+email: amccarthy84@gmail.com
+description: Portfolio showcasing my developing skills as a Data Analyst
+baseurl: "amccarthy84.github.io.git" # the subpath of your site, e.g. /blog
+url: https://github.com/amccarthy84/ # the base hostname & protocol for your site
+author: Ashley McCarthy
+city: Gainesville
+state: Fl
+zip_code: 32608
 country: United States of America
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +20,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/amccarthy84
+  LinkedIn: www.linkedin.com/in/ashley-mccarthy-137575236
 
 # build settings
 markdown: kramdown
